@@ -101,3 +101,16 @@
     }
   }
 }
+
+    {
+      "name": "whimsical-event-new",
+  "version": "1.0.0",
+      "scripts": {
+        "build": "tsc && webpack --mode production"
+      },
+      "devDependencies": {
+        "typescript": "^5.0.0",
+        "webpack": "^5.0.0",
+        // ... other dev dependencies
+      }
+    }
